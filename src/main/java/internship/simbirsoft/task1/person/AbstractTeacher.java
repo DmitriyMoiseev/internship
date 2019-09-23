@@ -1,6 +1,6 @@
 package internship.simbirsoft.task1.person;
 
-public class AbstractTeacher implements Teacher{
+public abstract class AbstractTeacher implements Teacher{
 
     private String fullName;
     private String subject;
